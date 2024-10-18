@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/user/Desktop/Unreal_BP/MyBpStudy/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"C:/Users/user/Desktop/Unreal_BP/MyBpStudy/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/user/Desktop/Unreal_BP/MyBpStudy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Desktop/Unreal_BP/MyBpStudy/Content/SK_Mannequin_PoseAsset.uasset",
+				"C:/Users/user/Desktop/Unreal_BP/MyBpStudy/Content/HandUpPose.uasset",
+				"C:/Users/user/Desktop/Unreal_BP/MyBpStudy/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/user/Desktop/Unreal_BP/MyBpStudy/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset"
 			]
 		}
 	]
